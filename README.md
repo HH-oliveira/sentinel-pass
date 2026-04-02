@@ -20,3 +20,6 @@ Diferente de scripts básicos, este projeto utiliza o framework **Flask** para c
 * `sentinel.py`: O servidor Flask e lógica de segurança.
 * `templates/index.html`: A interface visual do sistema.
 * `logs_seguranca.json`: Histórico das análises realizadas (gerado automaticamente).
+
+##💻 Web site
+* URL: http://127.0.0.1:5000/
